@@ -1,6 +1,6 @@
 # FinanceP
 
-Api para finaças pessoais
+Api para finaças pessoais. Front-end na pasta Client feito em React
 
 ## Funcionalidades
 
